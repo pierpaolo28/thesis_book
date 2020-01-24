@@ -1,0 +1,13 @@
+site_name: Alleviate Children's Health Issues through Games and Machine Learning
+nav:
+    - Home: index.md
+    - Abstract: abstract.md
+    - Introduction: chapter1.md
+    - Background Theory: chapter2.md
+    - Gaming Platform: chapter3.md
+    - Artificial Intelligence: chapter4.md
+    - Conclusion: chapter5.md
+    - Bibliography: chapter6.md
+    - Appendices: chapter7.md
+theme:
+  name: 'material'
