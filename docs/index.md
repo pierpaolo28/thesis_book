@@ -22,3 +22,19 @@ for his support throughout the project.
 > depends on the unreasonable man."  
 >
 > ​              -  George Bernard Shaw, Man and Superman
+
+
+
+### Contact me
+
+[Linkedin](https://www.linkedin.com/in/pierpaolo28/)
+
+[Personal WebSite](https://pierpaolo28.github.io/)
+
+[Medium Profile](https://medium.com/@pierpaoloippolito28)
+
+[Kaggle](https://www.kaggle.com/pierpaolo28)
+
+[Research Gate](https://www.researchgate.net/profile/Pier_Paolo_Ippolito)
+
+[Google Scholar](https://scholar.google.com/citations?user=QgG-lgwAAAAJ&hl=en&oi=ao)
